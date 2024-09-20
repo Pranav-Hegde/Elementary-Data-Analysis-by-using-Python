@@ -1,1 +1,1 @@
-Here I Uploaded the EDA project.It is a Python based Data Visualization Project. In this project we can easily understand and analyze the data,it deals Python Visualization frameworks like Seaborn and Matplotlib
+Here I Uploaded the EDA project.It is a Python based Data Visualization Project. In this project we can easily understand and analyze the data,it deals with Python Visualization frameworks like Seaborn and Matplotlib
